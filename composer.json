@@ -1,0 +1,16 @@
+{
+    "name": "will/say_hello",
+    "description": "quest autoload",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "WILLIAM BOUET",
+            "email": "william.bouet.14@gmail.com"
+        }
+    ],
+    "require": {}
+}
